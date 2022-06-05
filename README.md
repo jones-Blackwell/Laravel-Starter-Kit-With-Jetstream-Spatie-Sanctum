@@ -1,0 +1,2 @@
+# Laravel-Starter-Kit-With-Jetstream-Spatie-Sanctum
+In this repository, there are Laravel projects with Jetstream, Spatie and Sanctum already installed. Every Project was created considering all cross platform issues that happens when deploying project from windows to Linux server. APIs in every project works both on localhost and on Linux production server, so if your copy doesn't work on production server make sure you have enabled rewrite mode in your production server.
